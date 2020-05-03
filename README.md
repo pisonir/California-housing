@@ -223,8 +223,6 @@ scatter_matrix(df[:500], figsize=(25,25), alpha=0.3, diagonal="kde", marker="o")
 ```
 
 
-    <Figure size 432x288 with 0 Axes>
-
 
 
 ![png](output_10_1.png)
